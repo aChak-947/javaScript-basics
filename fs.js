@@ -22,4 +22,4 @@ fs.mkdirSync('myDirectory')
 //fs.rmdirSync('myDirectory')
 
 let doesExist = fs.existsSync('myDirectory')
-console.log(doesExist)
+console.log(doesExistInDirectory)
